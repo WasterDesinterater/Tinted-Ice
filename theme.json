@@ -5,5 +5,13 @@
     "version": "1.0",
     "description": "A theme for the zen browser which makes adds a glass-aesthetic to everything",
     "readme": "https://raw.githubusercontent.com/WasterDesinterater/Tinted-Ice/main/README.md",
-    "scipts": {"tinted-ice.uc.js"}
+    "scipts": {
+        "tinted-ice.uc.js": {
+            "name": "Heart script",
+            "description": "Script required for many components to work",
+            "include": [
+                "chrome://browser/content/browser.xhtml"
+            ]
+        }
+    },
 }
