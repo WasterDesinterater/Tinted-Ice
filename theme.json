@@ -5,7 +5,7 @@
     "homepage": "WasterDesinterater/Tinted-Ice",
     "readme": "https://raw.githubusercontent.com/WasterDesinterater/Tinted-Ice/main/README.md",
     "image": "https://github.com/user-attachments/assets/999fc8d4-0606-4c3c-9017-500708ea1c72",
-    "scipts": {
+    "scripts": {
         "JS/tinted-ice.uc.js": {
             "name": "Heart script",
             "description": "Script required for many components to work",
