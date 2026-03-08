@@ -5,3 +5,4 @@ function appMenu(){
     appShadow[0].setAttribute("style", "background:transparent !important; border:none !important; border-radius:20px !important"); 
 }
 document.getElementById("appMenu-popup").addEventListener("popupshowing",appMenu);
+console.log("working");
