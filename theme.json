@@ -13,5 +13,6 @@
                 "chrome://browser/content/browser.xhtml"
             ]
         }
-    }
+    },
+    "origin": "store"
 }
